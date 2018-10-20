@@ -1,0 +1,5 @@
+.idea
+__pycache__
+/log
+/OpenNMT-py-master
+/model_en_de
